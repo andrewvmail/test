@@ -2,6 +2,9 @@
 title: Momo the Cat
 timezone: UTC
 collections:
+  hikes:
+    title: Hikes
+    output: true
   posts:
     title: Posts
     output: true
